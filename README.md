@@ -5,7 +5,6 @@ The objective of OptiLogix is to pioneer a sophisticated predictive modeling fra
 
 # Implementation:
 1. Data Aggregation and Refinement:
-
 Aggregate comprehensive datasets encompassing diverse variables such as shipment distances, delivery urgencies, cargo characteristics, market dynamics, and economic indicators.
 Employ robust data cleaning techniques to ensure data integrity and reliability.
 Utilize advanced feature engineering methodologies to extract nuanced insights from raw data, including temporal trends and contextual influences.
